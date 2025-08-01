@@ -24,37 +24,7 @@ When I'm not coding or crunching numbers, you'll find me volunteering at the Red
 ## Experience:
 ### 🔋 Research Analyst @ StudyNSW Jobs Connect Project
 
-### 🛍️ Red Cross Shop Volunteer
-
----
-
-## 🎓 Education Journey
-
-### 🖥️ Master of Computer Science | University of Sydney
-*July 2024 – July 2026 (Expected)*
-
-### 📊 Bachelor of Statistics | Xiamen University
-*September 2019 – July 2023*
-
-
----
-
-## 🏆 Experience Highlights
-
 ### 📈 Bond Research Intern | China Merchants Securities
-*May 2023 – August 2023*
-
-- 📊 Analyzed bond market data to forecast conditions and spot opportunities
-- 📝 Contributed to semi-annual market reports for institutional clients
-- 🔍 Studied interest rate trends during major market events
-- ✍️ Authored industry research reports on investment strategies
-
-### 🎯 Project Evaluation Officer | Xiamen University Youth Volunteer Association
-*October 2019 – June 2021*
-
-- ⚖️ Evaluated volunteer activities and provided comprehensive assessments
-- 👥 Mentored new members in evaluation methodologies
-- 🏅 Led quality assurance processes for university volunteer initiatives
 
 ---
 
