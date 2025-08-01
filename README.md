@@ -1,4 +1,3 @@
-<img src="web_pic1.jpg" width="100" height="200"/>
 
 # 👋 Hey there! I'm Jack Sun (Huabiao Sun)
 
